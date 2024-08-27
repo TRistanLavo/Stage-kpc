@@ -4,7 +4,8 @@ Ce projet vise à automatiser la gestion des cas dans Salesforce en utilisant de
 
 Création et Classification des Cas :
 
-Génération de 2 000 cas fictifs à partir d'emails : demandes de factures .
+Génération de 2 000 cas fictifs à partir d'emails : - demandes de factures  avec Génération email pour facture seulement.py
+                                                    - demandes de factures et Réclamation avec 
 
 
 Prérequis
