@@ -4,12 +4,8 @@ Ce projet vise à automatiser la gestion des cas dans Salesforce en utilisant de
 
 Création et Classification des Cas :
 
-Génération de 2 000 cas fictifs à partir de deux types d'emails : demandes de factures et réclamations.
-Distinction des cas selon le type de client (VIP ou standard).
-Entraînement d'un modèle de classification des cas en utilisant Einstein AI.
-Automatisation des Emails de Clôture :
+Génération de 2 000 cas fictifs à partir d'emails : demandes de factures .
 
-Mise en place d'une solution automatisée pour l'envoi d'emails de clôture personnalisés aux clients via Copilot.
 
 Prérequis
 Salesforce : Accès à une instance Salesforce avec Email-to-Case activé, Einstein AI et Copilot configurés.
